@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  
+  <img src="[https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNjMHd2Y3h6N2M2cGpsNGFicWthOWIyZWp4Y3NoeDlkZ3pwYWp0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)" width="200"/>
   
   <div>
     <a href="https://www.linkedin.com/in/emmanuel-arhin-40294a207/">
