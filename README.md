@@ -39,5 +39,5 @@ const Summary = {
     "Sequelize ORM",
     "Kubernetes"
   ],
-  interests: ["Machine Learning", "Artificial Intelligence", "Backend Development"]
+  interests: ["Backend Development","Machine Learning", "Artificial Intelligence",]
 };
